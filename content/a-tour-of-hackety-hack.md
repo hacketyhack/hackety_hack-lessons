@@ -51,7 +51,7 @@ games, and a few other things.
 That's all there really is to say about the homepage. Try opening the Editor.
 Here's its icon:
 
-![Not this one, silly! the one on the left!](static/tab-new.png)
+![Not this one, silly! the one on the left!](/assets/tab-new.png)
 
 ## Editor
 
@@ -83,7 +83,7 @@ off to other Hackety Hackers. :) More about this when we talk about Preferences.
 
 The next tab is the Help tab. It looks like this: 
 
-![Not this one, silly! the one on the left!](static/tab-help.png)
+![Not this one, silly! the one on the left!](/assets/tab-help.png)
 
 Click it, and it'll open up a new window. Browse around and come back, I'll be
 here.
@@ -101,7 +101,7 @@ there's a lot! Luckily, there's also a much shorter cheat sheet too...
 
 Peek at the Cheat Sheet by clicking the icon like this:
 
-![Not this one, silly! the one on the left!](static/tab-cheat.png)
+![Not this one, silly! the one on the left!](/assets/tab-cheat.png)
 
 The Cheat Sheet is much simpler. It just contains some helpful bits that you
 should find useful. A quick reference of often used bits. And a short sheet
@@ -115,7 +115,7 @@ The classic About box. These have been around basically since the beginning of
 time. It's just a fun little image that tells you what version of Hackety Hack
 you're using. It'll change with every release.
 
-![Not this one, silly! the one on the left!](static/tab-hand.png)
+![Not this one, silly! the one on the left!](/assets/tab-hand.png)
 
 Time for the last one...
 
@@ -125,7 +125,7 @@ Time for the last one...
 
 The Preferences icon is towards the bottom, and looks like this:
 
-![Not this one, silly! the one on the left!](static/tab-properties.png)
+![Not this one, silly! the one on the left!](/assets/tab-properties.png)
 
 This lets you adjust your preferences for Hackety Hack. Right now, there's only
 one preference: linking Hackety with your account on
@@ -144,7 +144,7 @@ If you did click the quit icon, well, you wouldn't be here anymore. And that'd
 be unfortunate. So, don't click it until you're good and ready. When it's your
 time to go, it'll be there waiting for you.
 
-![Not this one, silly! the one on the left!](static/tab-quit.png)
+![Not this one, silly! the one on the left!](/assets/tab-quit.png)
 
 Come back soon!
 

@@ -121,7 +121,7 @@ the turtle isn't doing what you expect!
 
 Click on the editor tab to get started:
 
-![Not this one, silly! the one on the left!](static/tab-new.png)
+![Not this one, silly! the one on the left!](/assets/tab-new.png)
 
 ### Type it in!
 

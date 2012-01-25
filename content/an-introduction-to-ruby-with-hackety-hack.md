@@ -26,7 +26,7 @@ _Ruby_ was created by
 (you can just call him Matz) in 1995. If you couldn't guess, Matz is from
 Japan. Here he is:
 
-![](static/matz.jpg)
+![](/assets/matz.jpg)
 
 ### Ruby is enjoyable
 
@@ -51,7 +51,7 @@ screen. Otherwise, you won't know what's going on!
 In order to start coding, we need to bring up the Editor. Its icon looks like
 this:
 
-![Not this one, silly! the one on the left!](static/tab-new.png)
+![Not this one, silly! the one on the left!](/assets/tab-new.png)
 
 Click the icon to open the Editor up, and then we'll move on...
 

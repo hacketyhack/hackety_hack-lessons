@@ -1,4 +1,6 @@
 require 'hackety_hack/lessons/version'
+require 'hackety_hack/lessons/rails/engine' if defined?(Rails)
+
 require 'metadown'
 
 module HacketyHack
@@ -25,6 +27,10 @@ module HacketyHack
 
     def all
       FILE_LIST.collect{|file| Metadown.render(File.read(file)) }
+    end
+
+    def static_directory
+      "#{File.dirname(__FILE__)}/../../static"
     end
   end
 end
