@@ -5,7 +5,7 @@ module HacketyHack
   module Lessons
     extend self
 
-    FILE_LIST = Dir["content/*.md"]
+    FILE_LIST = Dir["#{File.dirname(__FILE__)}/../../content/*.md"]
 
     def titles
       all.collect{|data| data.metadata["title"]}
