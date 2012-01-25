@@ -8,8 +8,15 @@ module HacketyHack
     FILE_LIST = Dir["content/*.md"]
 
     def titles
-      FILE_LIST.collect{|file| Metadown.render(File.read(file)) }.
-                collect{|data| data.metadata["title"]}
+      all.collect{|data| data.metadata["title"]}
+    end
+
+    def find_by_title(title)
+      all.find{|data| data.metadata["title"] == title}
+    end
+
+    def all
+      FILE_LIST.collect{|file| Metadown.render(File.read(file)) }
     end
   end
 end
