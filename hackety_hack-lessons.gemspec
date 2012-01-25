@@ -14,4 +14,6 @@ Gem::Specification.new do |gem|
   gem.name          = "hackety_hack-lessons"
   gem.require_paths = ["lib"]
   gem.version       = HacketyHack::Lessons::VERSION
+
+  gem.add_runtime_dependency "metadown"
 end

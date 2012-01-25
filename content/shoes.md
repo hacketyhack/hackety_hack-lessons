@@ -1,3 +1,7 @@
+---
+title: "Shoes"
+---
+
 # Beginner Shoes
 
 ## Hello there!

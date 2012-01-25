@@ -1,3 +1,7 @@
+---
+title: "Data Structures"
+---
+
 # Beginner Data Structures
 
 ## Hello there!

@@ -1,3 +1,7 @@
+---
+title: "Ruby"
+---
+
 # Beginner Ruby
 
 ## Hello there!

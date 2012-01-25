@@ -1,3 +1,6 @@
+---
+title: "Data Types"
+---
 # Data Types
 
 ## This is where it starts getting fun!

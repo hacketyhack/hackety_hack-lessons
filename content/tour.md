@@ -1,3 +1,7 @@
+---
+title: "Tour"
+---
+
 # A Tour of Hackety Hack
 
 ## Welcome!
