@@ -1,6 +1,7 @@
 ---
 title: "An Introduction to Ruby (with Hackety Hack)"
 slug: "an-introduction-to-ruby-with-hackety-hack"
+blurb: "Learn the basics of the Ruby programming language in this lesson."
 categories:
   - hackety
   - beginner

@@ -1,6 +1,7 @@
 ---
 title: "An Introduction to Shoes"
 slug: "an-introduction-to-shoes"
+blurb: "Learn about the Shoes GUI toolkit."
 categories:
   - shoes
   - beginner

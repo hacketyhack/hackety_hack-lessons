@@ -1,6 +1,7 @@
 ---
 title: "An Introduction to Programming"
 slug: "an-introduction-to-programming"
+blurb: "If you know nothing about programming, this is where to start!"
 categories:
   - hackety
   - beginner

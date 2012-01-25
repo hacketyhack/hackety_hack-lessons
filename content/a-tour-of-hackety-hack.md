@@ -1,6 +1,7 @@
 ---
 title: "A Tour of Hackety Hack"
 slug: "a-tour-of-hackety-hack"
+blurb: "Get a run-down of all the different features in Hackety!"
 categories:
   - hackety
   - beginner
