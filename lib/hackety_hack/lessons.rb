@@ -15,6 +15,10 @@ module HacketyHack
       all.find{|data| data.metadata["title"] == title}
     end
 
+    def find_by_slug(slug)
+      all.find{|data| data.metadata["slug"] == slug}
+    end
+
     def all
       FILE_LIST.collect{|file| Metadown.render(File.read(file)) }
     end
