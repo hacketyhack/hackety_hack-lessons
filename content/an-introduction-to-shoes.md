@@ -1,8 +1,10 @@
 ---
-title: "Shoes"
+title: "An Introduction to Shoes"
+slug: "an-introduction-to-shoes"
+categories:
+  - shoes
+  - beginner
 ---
-
-# Beginner Shoes
 
 ## Hello there!
 
@@ -13,33 +15,6 @@ basics that Shoes brings to everyone who programs.
 
 If you didn't know, Shoes is a Ruby toolkit that lets you build GUI programs
 really easy and fun!
-
-Click the icon like this (on the bottom of the screen) to get started:
-
-![Not this one! The one below!](/icon_button/arrow_right)
-
-### Lesson Controls
-
-Before we move on, Here's a refresher on the controls you can use to move around
-in the Lesson.
-
-![](/icon_button/arrow_left)
-__back__: goes back one page
-
-![](/icon_button/arrow_right)
-__continue__: goes to the next page
-
-![](/icon_button/menu)
-__menu__: makes it easy to jump around to any lesson
-
-![](/icon_button/x)
-__close__: closes the tutor
-
-Don't forget! Press this to move to the next part:
-
-![](/icon_button/arrow_right)
-
-Have at it!
 
 ## Apps
 
@@ -170,9 +145,10 @@ the file on your computer:
       image "#{HH::STATIC}/matz.jpg"
     end
 
-(Can you figure out what this does? Don't feel bad if you can't.)
+(This particular example only works if you're in Hackety Hack, by the way!
+Can you figure out what this does? Don't feel bad if you can't.)
 
-You can also specify an image on the web:
+Or you can also specify an image on the web:
 
     Shoes.app do
       image "http://shoesrb.com/images/shoes-icon.png"

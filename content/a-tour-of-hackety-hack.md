@@ -1,8 +1,10 @@
 ---
-title: "Tour"
+title: "A Tour of Hackety Hack"
+slug: "a-tour-of-hackety-hack"
+categories:
+  - hackety
+  - beginner
 ---
-
-# A Tour of Hackety Hack
 
 ## Welcome!
 
@@ -10,41 +12,8 @@ title: "Tour"
 
 Welcome to the Hackety Hack tour!
 
-This whole side of the screen is the _Hackety Hack Tutor_. You can move forward
-through the lessons by clicking the _Next_ button:
-
-![You should click on the actual button, below! =)](/icon_button/arrow_right)
-
-Give it a shot!
-
-### Good Job!
-
-See? Super easy. Let's explore the rest of Hackety Hack.
-
 You can access the different functions of Hackety through the buttons on the
-left side of the screen. For example, you got here by clicking on 'Lessons.'
-There are 8 of those buttons, but since you're already on Lessons, let's talk
-about them first.
-
-Before we move on, just take a minute to look at the controls in the bar below.
-
-![](/icon_button/arrow_left)
-__back__: goes back one page
-
-![](/icon_button/arrow_right)
-__continue__: goes to the next page
-
-![](/icon_button/menu)
-__menu__: makes it easy to jump around to any lesson
-
-![](/icon_button/x)
-__close__: closes the tutor
-
-Don't forget! Press this to move to the next part:
-
-![](/icon_button/arrow_right)
-
-Have at it!
+left side of the screen. 
 
 ## Lessons
 
@@ -186,8 +155,8 @@ Come back soon!
 This concludes the Hackety Hack tour. Good job! Now you know everything that
 Hackety Hack can do. It's pretty simple!
 
-This isn't the only lesson that we have for you, though. Give the 'Basic
-Programming' lesson a shot to actually start learning how to make programs of
-your own.
+This isn't the only lesson that we have for you, though. Give the 'An
+Introduction to Programming' lesson a shot to actually start learning how to
+make programs of your own.
 
 What are you waiting for? Get going!

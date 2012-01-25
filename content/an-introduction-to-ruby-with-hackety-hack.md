@@ -1,8 +1,10 @@
 ---
-title: "Ruby"
+title: "An Introduction to Ruby (with Hackety Hack)"
+slug: "an-introduction-to-ruby-with-hackety-hack"
+categories:
+  - hackety
+  - beginner
 ---
-
-# Beginner Ruby
 
 ## Hello there!
 
@@ -12,33 +14,6 @@ Welcome to your first lesson in Ruby! You're going to have a blast.
 
 Ruby is a great programming language that you can use to make all kinds of
 things with. Let's get going!
-
-Click the icon like this (on the bottom of the screen) to get started:
-
-![Not this one! The one below!](/icon_button/arrow_right)
-
-### Lesson Controls
-
-Before we move on, Here's a refresher on the controls you can use to move around
-in the Lesson.
-
-![](/icon_button/arrow_left)
-__back__: goes back one page
-
-![](/icon_button/arrow_right)
-__continue__: goes to the next page
-
-![](/icon_button/menu)
-__menu__: makes it easy to jump around to any lesson
-
-![](/icon_button/x)
-__close__: closes the tutor
-
-Don't forget! Press this to move to the next part:
-
-![](/icon_button/arrow_right)
-
-Have at it!
 
 ## A bit more about Ruby
 
@@ -333,4 +308,4 @@ Here's what you've learned so far:
 
 `if` and `else`
 
-Awesome! You'll want to check out Basic Shoes next!
+Awesome! You'll probably want to check out Basic Shoes next!
