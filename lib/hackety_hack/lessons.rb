@@ -11,6 +11,10 @@ module HacketyHack
       all.collect{|data| data.metadata["title"]}
     end
 
+    def slugs
+      all.collect{|data| data.metadata["slug"]}
+    end
+
     def find_by_title(title)
       all.find{|data| data.metadata["title"] == title}
     end
