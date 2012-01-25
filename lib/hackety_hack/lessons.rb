@@ -26,7 +26,7 @@ module HacketyHack
     end
 
     def all
-      FILE_LIST.collect{|file| Metadown.render(File.read(file)) }
+      FILE_LIST.collect{|file| Metadown.render(File.read(file, :encoding => "utf-8")) }
     end
 
     def static_directory
