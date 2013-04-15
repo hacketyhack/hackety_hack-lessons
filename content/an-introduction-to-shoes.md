@@ -59,34 +59,34 @@ text in your apps.
       para "Hello there, world", :font => "TakaoGothic"
     end
 
-## stacks
+## flows
 
 ### They're default!
 
 If you're looking to lay out your Shoes widgets, there are two options. The
-first is a `stack`. A Stack is the default layout a Shoes app has. So this won't
-look much differently than one without the stack:
+first is a `flow`. A Flow is the default layout a Shoes app has. So this won't
+look much different from one without the flow:
 
     Shoes.app do
-      stack do
+      flow do
         para "Hello!"
         para "Hello!"
         para "Hello!"
       end
     end
 
-As you can see, the `para`s are stacked on top of each other. By itself, kinda
+As you can see, the `para`s are lined up in a row. By itself, kinda
 boring, since they already do this. But...
 
-## flows
+## stacks
 
-### The counterpart of stacks
+### The counterpart of flows
 
-`flow`s are kind of like stacks, but they go sideways rather than up and down.
+`stack`s are kind of like flows, but they go up and down rather than sideways.
 Try this as an example:
 
     Shoes.app do
-      flow do
+      stack do
         para "Hello!"
         para "Hello!"
         para "Hello!"
